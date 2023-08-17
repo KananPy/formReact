@@ -1,0 +1,38 @@
+
+
+.card{
+    float: left;
+    margin-left: 20px;
+    height: 400px;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card-img-top{
+    height: 60%;
+}
+
+.form-input{
+
+    margin-top: 30px;
+
+
+}
+
+.form-input input{
+    width: 40%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.form-control{
+    width: 40%;
+    margin-left: 525px;
+}
+
+button{
+    border-radius: 10px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #b7efff;
+}
